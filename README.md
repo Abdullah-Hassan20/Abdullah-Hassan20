@@ -30,7 +30,7 @@ I'm passionate about building clean, user-friendly web applications using techno
 ## 📫 Let's Connect
 
 - 📧 Email: abdullahrouf267@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/abdullah-hassan-17b818205)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/abdullah-hassan-17b818205)
 
 ---
 
