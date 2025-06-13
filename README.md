@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdullah Hassan
 
-<!--
-**Abdullah-Hassan20/Abdullah-Hassan20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student | 💻 Web Developer | 🌐 Freelancer 
 
-Here are some ideas to get you started:
+I'm passionate about building clean, user-friendly web applications using technologies like PHP, MySQL, React, and Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** PHP, Node.js, Express
+- **Database:** MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code, XAMPP
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Hassan20&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Hassan20&layout=compact&theme=radical)
+
+---
+
+## 💼 Hire Me on Upwork
+
+🔗 [View My Upwork Profile](https://www.upwork.com/freelancers/~013f1c5945adb051b7?mp_source=share)
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: abdullahrouf267@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/abdullah-hassan-17b818205)
+
+---
+
+_Thanks for visiting my profile! 🚀_
+
