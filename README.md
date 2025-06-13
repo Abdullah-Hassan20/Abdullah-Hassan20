@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdullah Hassan
 
-🎓 Software Engineering Student | 💻 Web Developer | 🌐 Freelancer 
+🎓 Software Engineering Student | 💻 Fullstack Web Developer | 🌐 Freelancer 
 
 I'm passionate about building clean, user-friendly web applications using technologies like PHP, MySQL, React, and Node.js.
 
